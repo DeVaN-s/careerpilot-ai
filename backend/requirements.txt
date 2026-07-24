@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gunicorn
+python-dotenv
+groq
+python-multipart
+pypdf
+reportlab
